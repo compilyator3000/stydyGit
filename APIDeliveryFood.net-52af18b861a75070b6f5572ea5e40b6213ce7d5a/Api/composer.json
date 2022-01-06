@@ -1,0 +1,15 @@
+{
+
+  "version": "1.0.0",
+  "dependencies": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Brain\\":"brain",
+      "": "work/config/core.php"
+    }
+  },
+  "require": {
+    "ext-pdo": "*"
+  }
+}

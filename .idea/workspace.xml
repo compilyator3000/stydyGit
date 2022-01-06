@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b09327d-2341-4e53-9e74-afd45dbff516" name="Changes" comment="" />
+    <list default="true" id="1b09327d-2341-4e53-9e74-afd45dbff516" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/APIDeliveryFood.net-52af18b861a75070b6f5572ea5e40b6213ce7d5a/Api/data" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +12,16 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="23GueoF3bTongPOWmi1WKi0zzEh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,10 +42,23 @@
       <option name="presentableId" value="Default" />
       <updated>1641372843575</updated>
       <workItem from="1641372844920" duration="30000" />
+      <workItem from="1641453560875" duration="333000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit in withChanges branch">
+      <created>1641453840144</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1641453840144</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit in withChanges branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit in withChanges branch" />
   </component>
 </project>
